@@ -1,7 +1,7 @@
 {
   "name": "node-lock",
   "version": "1.0.0",
-  "description": "node-lock is a tool for controlling access to a shared resource. Commonly, a lock provides exclusive access to a shared resource: only one event loop at a time can acquire the lock and all access to the shared resource requires that the lock be acquired first.",
+  "description": "node-lock is a simple tool for controlling access to a shared resource. Commonly, a lock provides exclusive access to a shared resource: only one event loop at a time can acquire the lock and all access to the shared resource requires that the lock be acquired first.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
