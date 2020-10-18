@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe7f0af-7ea9-4c46-a43d-2ad93482814f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603011750681</updated>
       <workItem from="1603011751739" duration="2041000" />
-      <workItem from="1603014276039" duration="8000" />
+      <workItem from="1603014276039" duration="1641000" />
     </task>
     <servers />
   </component>
@@ -85,5 +85,9 @@
       <screen x="1792" y="-57" width="1920" height="1177" />
     </state>
     <state width="1878" height="330" key="GridCell.Tab.0.right/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603011997075" />
+    <state x="2417" y="208" width="670" height="676" key="search.everywhere.popup" timestamp="1603015126570">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state x="2417" y="208" width="670" height="676" key="search.everywhere.popup/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603015126570" />
   </component>
 </project>
