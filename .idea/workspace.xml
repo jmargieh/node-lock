@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfe7f0af-7ea9-4c46-a43d-2ad93482814f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j2os4xdWpi9HUqhs6M9xg8ZibQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe7f0af-7ea9-4c46-a43d-2ad93482814f" name="Default Changelist" comment="" />
+      <created>1603011750681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603011750681</updated>
+      <workItem from="1603011751739" duration="2041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2495" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603012512192">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state x="2495" y="340" key="#com.intellij.fileTypes.FileTypeChooser/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603012512192" />
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom" timestamp="1603011997075">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.bottom/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603011997075" />
+    <state width="1878" height="330" key="GridCell.Tab.0.center" timestamp="1603011997074">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.center/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603011997074" />
+    <state width="1878" height="330" key="GridCell.Tab.0.left" timestamp="1603011997074">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.left/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603011997074" />
+    <state width="1878" height="330" key="GridCell.Tab.0.right" timestamp="1603011997075">
+      <screen x="1792" y="-57" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="330" key="GridCell.Tab.0.right/1792.-57.1920.1177/0.23.1792.1018@1792.-57.1920.1177" timestamp="1603011997075" />
+  </component>
+</project>
