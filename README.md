@@ -1,7 +1,7 @@
 # node-lock
 
 ## Description
-node-lock is a tool for controlling access to a shared resource. Commonly, a lock provides exclusive access to a shared resource: only one event loop at a time can acquire the lock and all access to the shared resource requires that the lock be acquired first.
+node-lock is a simple tool for controlling access to a shared resource. Commonly, a lock provides exclusive access to a shared resource: only one event loop at a time can acquire the lock and all access to the shared resource requires that the lock be acquired first.
 
 ## Usage Typescript
 ```typescript
