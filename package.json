@@ -18,7 +18,10 @@
   "keywords": ["mutex", "lock", "async-loc", "node-lock"],
   "files": ["lib/**/*"],
   "author": "Jawad Margieh",
-  "repository": "https://github.com/jmargieh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmargieh/node-lock"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^13.9.1",
