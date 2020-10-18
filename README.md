@@ -18,12 +18,13 @@ async asyncFunction(key) {
 ```
 
 ## API
-#### waitForLockRelease(string | number: key): Promise<void>
+#### .waitForLockRelease(string | number: key): Promise<void>
 Returns a Promise when the resource released. resolved instantly in case no lock acquired for the resource.
 
-#### acquireLock(string | number: key, number?: timeout): void
+#### .acquireLock(string | number: key, number?: timeout): void
 Acquires a lock for the provided resource.
+
 ```timeout``` optional lock timeout in milli seconds.  
 
-#### releaseLock(string | number: key): void
+#### .releaseLock(string | number: key): void
 Releases the lock of the provided resource.
